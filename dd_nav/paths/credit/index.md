@@ -152,12 +152,15 @@ L07. Pipelined Circuits:
     [docx](worksheets/pipelined_worksheet.docx)
 
 L08. Design Tradeoffs:
+
 L09. Designing an Instruction Set:
     [pdf](worksheets/pdf/L09_worksheet.pdf)
     [docx](worksheets/isa_worksheet.docx)
 
 L10a. Assembly Language:
+
 L10b. Models of Computation:
+
 L11. Compilers:
     [pdf](worksheets/pdf/L11_worksheet.pdf)
     [docx](worksheets/compilation_worksheet.docx)
@@ -200,7 +203,9 @@ L19. Concurrency & Synchronization:
     [docx](worksheets/synchronization_answers.docx)
 
 L20. System-level Communication:
+
 L21. Parallel Processing:
+
 L22. Wrap-up:
 
 # Labs
