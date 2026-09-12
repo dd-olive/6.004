@@ -6,72 +6,96 @@
 L01. Basics of Information:
     (Static)[lectures/L01_Basics_of_Information.html]
     (Slides)[lectures/lecture_slides/info.pptx]
+    (YouTube)[https://www.youtube.com/watch?v=9DWlqtsNGV0]
 L02. The Digital Abstraction:
     (Static)[lectures/L02_The_Digital_Abstraction.html]
     (Slides)[lectures/lecture_slides/digital.pptx]
+    (YouTube)[https://www.youtube.com/watch?v=iafO47Dp1dA]
 L03. CMOS Technology:
     (Static)[lectures/L03_CMOS_Technology.html]
     (Slides)[lectures/lecture_slides/cmos.pptx]
+    (YouTube)[https://www.youtube.com/watch?v=gXNxlH23eWc]
 L04. Combinational Logic:
     (Static)[lectures/L04_Combinational_Logic.html]
     (Slides)[lectures/lecture_slides/combinational.pptx]
+    (YouTube)[https://www.youtube.com/watch?v=WgBLHZkZm-E]
 L05. Sequential Logic:
     (Static)[lectures/L05_Sequential_Logic.html]
     (Slides)[lectures/lecture_slides/sequential.pptx]
+    (YouTube)[https://www.youtube.com/watch?v=mxtQTbgj44s]
 L06. Finite State Machines:
     (Static)[lectures/L06_Finite_State_Machines.html]
     (Slides)[lectures/lecture_slides/fsm.pptx]
+    (YouTube)[https://www.youtube.com/watch?v=uzli04Y6nWQ]
 L07. Pipelined Circuits:
     (Static)[lectures/L07_Pipelined_Circuits.html]
     (Slides)[lectures/lecture_slides/pipelined.pptx]
+    (YouTube)[https://www.youtube.com/watch?v=Qjy4LUz_psg]
 L08. Design Tradeoffs:
     (Static)[lectures/L08_Design_Tradeoffs.html]
     (Slides)[lectures/lecture_slides/tradeoffs.pptx]
+    (YouTube)[https://www.youtube.com/watch?v=EPpBBPUL0hY]
 L09. Designing an Instruction Set:
     (Static)[lectures/L09_Designing_an_Instruction_Set.html]   
     (Slides)[lectures/lecture_slides/isa.pptx]
-L10a. Assembly Language: Lecture
+    (YouTube)[https://www.youtube.com/watch?v=-AWBts5IBBM]
+L10a. Assembly Language:
     (Static)[lectures/L10a_Assembly_Language.html]
     (Slides)[lectures/lecture_slides/assembly.pptx]
+    (YouTube)[https://www.youtube.com/watch?v=LbptX5Ac74s]
 L10b. Models of Computation:
     (Static)[lectures/L10b_Models_of_Computation.html]
     (Slides)[lectures/lecture_slides/models.pptx]
+    (YouTube)[https://www.youtube.com/watch?v=LbptX5Ac74s]
 L11. Compilers:
     (Static)[lectures/L11_Compilers.html]
     (Slides)[lectures/lecture_slides/compilers.pptx]
+    (YouTube)[https://www.youtube.com/watch?v=cdcKXiBRDkQ]
 L12. Procedures and Stacks:
     (Static)[lectures/L12_Procedures_and_Stacks.html]  
     (Slides)[lectures/lecture_slides/stacks.pptx]
+    (YouTube)[https://www.youtube.com/watch?v=lDB51_X3RQU]
 L13. Building the Beta:
     (Static)[lectures/L13_Building_the_Beta.html]
     (Slides)[lectures/lecture_slides/beta.pptx]
+    (YouTube)[https://www.youtube.com/watch?v=DywNMAdNNuE]
 L14. Caches and the Memory Hierarchy:
     (Static)[lectures/L14_Caches_and_the_Memory_Hierarchy.html]
     (Slides)[lectures/lecture_slides/caches.pptx]
+    (YouTube)[https://www.youtube.com/watch?v=GeugnKWRWyU]
 L15. Pipelining the Beta:
     (Static)[lectures/L15_Pipelining_the_Beta.html]
     (Slides)[lectures/lecture_slides/pipelined.pptx]
+    (YouTube)[https://www.youtube.com/watch?v=xdLKAymakmk]
 L16. Virtual Memory:
     (Static)[lectures/L16_Virtual_Memory.html]
     (Slides)[lectures/lecture_slides/virtual.pptx]
+    (YouTube)[https://www.youtube.com/watch?v=ELUyqCA_afE]
 L17. Virtualizing the Processor:
     (Static)[lectures/L17_Virtualizing_the_Processor.html]
     (Slides)[lectures/lecture_slides/virtual.pptx]
+    (YouTube)[https://www.youtube.com/watch?v=CgEsf-Ryox4]
 L18. Devices and Interrupts:
     (Static)[lectures/L18_Devices_and_Interrupts.html]
     (Slides)[lectures/lecture_slides/interrupts.pptx]
+    (YouTube)[https://www.youtube.com/watch?v=4CI-4aWDzgw]
 L19. Concurrency & Synchronization:
     (Static)[lectures/L19_Concurrency_and_Synchronization.html]
     (Slides)[lectures/lecture_slides/synchronization.pptx]
+    (YouTube)[https://www.youtube.com/watch?v=suIf1Qlcfz0]
 L20. System-level Communication:
     (Static)[lectures/L20_System-level_Communication.html]
     (Slides)[lectures/lecture_slides/communications.pptx]
+    (YouTube)[https://www.youtube.com/watch?v=wZosjO_jx3U]
 L21. Parallel Processing:
     (Static)[lectures/L21_Parallel_Processing.html]
     (Slides)[lectures/lecture_slides/parallel.pptx]
+    (YouTube)[https://www.youtube.com/watch?v=hWB3f0F9KbM]
 L22. Wrap-up:
     (Static)[lectures/Wrap-up.html]
     (Slides)[lectures/lecture_slides/wrap-up.pptx]
+    (YouTube)[https://www.youtube.com/watch?v=aZqPLM0wrlY]
+    (YouTube)[https://www.youtube.com/watch?v=61kjpFi16K8]
 
 # Worksheets
 ## Weight: 20%
